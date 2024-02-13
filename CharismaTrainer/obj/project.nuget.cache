@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dKuKFOUPix1BJKyCrIKqSPWf2A6+P1DiLOWLpzORykRyw0nNmzbzhr8D5iBDgM+VJRyHf2Ooxh7XJdy6p63yAw==",
+  "dgSpecHash": "14z+j8BhWA9Ya/3EkQ779ydBFSGTF3QCk8mB/IGMjMzCXZtQiK/zrlAGQ1YEf3MZk/7nTlQApmBGnSZd4U4Rtg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Danail\\Desktop\\repos\\Roblox\\Deepwoken\\CharismaTrainer\\CharismaTrainer.csproj",
   "expectedPackageFiles": [
@@ -12,7 +12,8 @@
     "C:\\Users\\Danail\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Danail\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\Danail\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\Danail\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+    "C:\\Users\\Danail\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512",
+    "C:\\Users\\Danail\\.nuget\\packages\\tesseract.drawing\\5.2.0\\tesseract.drawing.5.2.0.nupkg.sha512"
   ],
   "logs": []
 }

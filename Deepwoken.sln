@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharismaTrainer", "CharismaTrainer\CharismaTrainer.csproj", "{06357209-35D5-4D7B-82BA-D46AD64B1B58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharismaTrainer", "CharismaTrainer\CharismaTrainer.csproj", "{06357209-35D5-4D7B-82BA-D46AD64B1B58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortitudeTrainer", "FortitudeTrainer\FortitudeTrainer.csproj", "{694A73B7-709B-470C-9794-9D2D1F7464BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{06357209-35D5-4D7B-82BA-D46AD64B1B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06357209-35D5-4D7B-82BA-D46AD64B1B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06357209-35D5-4D7B-82BA-D46AD64B1B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694A73B7-709B-470C-9794-9D2D1F7464BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694A73B7-709B-470C-9794-9D2D1F7464BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694A73B7-709B-470C-9794-9D2D1F7464BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694A73B7-709B-470C-9794-9D2D1F7464BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

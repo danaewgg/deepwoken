@@ -23,3 +23,4 @@ C:\Users\Danail\Desktop\repos\Roblox\Deepwoken\CharismaTrainer\bin\Debug\net6.0\
 C:\Users\Danail\Desktop\repos\Roblox\Deepwoken\CharismaTrainer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Danail\Desktop\repos\Roblox\Deepwoken\CharismaTrainer\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\Danail\Desktop\repos\Roblox\Deepwoken\CharismaTrainer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danail\Desktop\repos\Roblox\Deepwoken\CharismaTrainer\bin\Debug\net6.0\Tesseract.Drawing.dll

@@ -164,6 +164,19 @@
         "build": {
           "build/Tesseract.targets": {}
         }
+      },
+      "Tesseract.Drawing/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Drawing.Common": "6.0.0",
+          "Tesseract": "5.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Tesseract.Drawing.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Tesseract.Drawing.dll": {}
+        }
       }
     }
   },
@@ -495,13 +508,26 @@
         "x86/leptonica-1.82.0.dll",
         "x86/tesseract50.dll"
       ]
+    },
+    "Tesseract.Drawing/5.2.0": {
+      "sha512": "ORuub0AagnAGPjdhO8qNxI6Z+2dXUmqWFy6qSjQ+Wr56SxQiV2jNvGM9Tpluvd7F5vwJeqXEWQnzFvGL6iHfjA==",
+      "type": "package",
+      "path": "tesseract.drawing/5.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Tesseract.Drawing.dll",
+        "tesseract.drawing.5.2.0.nupkg.sha512",
+        "tesseract.drawing.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "InputInterceptor >= 2.2.0",
       "System.Drawing.Common >= 8.0.1",
-      "Tesseract >= 5.2.0"
+      "Tesseract >= 5.2.0",
+      "Tesseract.Drawing >= 5.2.0"
     ]
   },
   "packageFolders": {
@@ -558,6 +584,10 @@
             "version": "[8.0.1, )"
           },
           "Tesseract": {
+            "target": "Package",
+            "version": "[5.2.0, )"
+          },
+          "Tesseract.Drawing": {
             "target": "Package",
             "version": "[5.2.0, )"
           }

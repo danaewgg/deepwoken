@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danail\\Desktop\\repos\\Roblox\\Deepwoken\\CharismaTrainer\\CharismaTrainer.csproj": {}
+    "C:\\Users\\Danail\\Desktop\\repos\\Roblox\\Deepwoken\\FortitudeTrainer\\FortitudeTrainer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danail\\Desktop\\repos\\Roblox\\Deepwoken\\CharismaTrainer\\CharismaTrainer.csproj": {
+    "C:\\Users\\Danail\\Desktop\\repos\\Roblox\\Deepwoken\\FortitudeTrainer\\FortitudeTrainer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danail\\Desktop\\repos\\Roblox\\Deepwoken\\CharismaTrainer\\CharismaTrainer.csproj",
-        "projectName": "CharismaTrainer",
-        "projectPath": "C:\\Users\\Danail\\Desktop\\repos\\Roblox\\Deepwoken\\CharismaTrainer\\CharismaTrainer.csproj",
+        "projectUniqueName": "C:\\Users\\Danail\\Desktop\\repos\\Roblox\\Deepwoken\\FortitudeTrainer\\FortitudeTrainer.csproj",
+        "projectName": "FortitudeTrainer",
+        "projectPath": "C:\\Users\\Danail\\Desktop\\repos\\Roblox\\Deepwoken\\FortitudeTrainer\\FortitudeTrainer.csproj",
         "packagesPath": "C:\\Users\\Danail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danail\\Desktop\\repos\\Roblox\\Deepwoken\\CharismaTrainer\\obj\\",
+        "outputPath": "C:\\Users\\Danail\\Desktop\\repos\\Roblox\\Deepwoken\\FortitudeTrainer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,24 +44,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "InputInterceptor": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "System.Drawing.Common": {
-              "target": "Package",
-              "version": "[8.0.1, )"
-            },
-            "Tesseract": {
-              "target": "Package",
-              "version": "[5.2.0, )"
-            },
-            "Tesseract.Drawing": {
-              "target": "Package",
-              "version": "[5.2.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

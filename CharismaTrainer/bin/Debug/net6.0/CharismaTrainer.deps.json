@@ -10,7 +10,8 @@
         "dependencies": {
           "InputInterceptor": "2.2.0",
           "System.Drawing.Common": "8.0.1",
-          "Tesseract": "5.2.0"
+          "Tesseract": "5.2.0",
+          "Tesseract.Drawing": "5.2.0"
         },
         "runtime": {
           "CharismaTrainer.dll": {}
@@ -75,6 +76,18 @@
         },
         "runtime": {
           "lib/netstandard2.0/Tesseract.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.0"
+          }
+        }
+      },
+      "Tesseract.Drawing/5.2.0": {
+        "dependencies": {
+          "System.Drawing.Common": "8.0.1",
+          "Tesseract": "5.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Tesseract.Drawing.dll": {
             "assemblyVersion": "5.2.0.0",
             "fileVersion": "5.2.0.0"
           }
@@ -150,6 +163,13 @@
       "sha512": "sha512-YB7feJlrTWSXtK8+WaCcseGSPK/1r2d2FWeKGyndlrPwYClrzTlCoHD4/oQEUjKafmpkWlhTZZ7pxiRJYZgj6w==",
       "path": "tesseract/5.2.0",
       "hashPath": "tesseract.5.2.0.nupkg.sha512"
+    },
+    "Tesseract.Drawing/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ORuub0AagnAGPjdhO8qNxI6Z+2dXUmqWFy6qSjQ+Wr56SxQiV2jNvGM9Tpluvd7F5vwJeqXEWQnzFvGL6iHfjA==",
+      "path": "tesseract.drawing/5.2.0",
+      "hashPath": "tesseract.drawing.5.2.0.nupkg.sha512"
     }
   }
 }
